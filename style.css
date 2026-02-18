@@ -311,11 +311,11 @@ details p{ margin: 10px 0; }
   display:none;
 }
 .btn-top:hover{ background: rgba(161,19,29,.20); }
-.teoria-img {
+.teoria-mini {
   width: 100%;
-  max-height: 300px;
+  max-height: 180px;
   object-fit: cover;
-  border-radius: 16px;
-  margin: 12px 0 18px;
-  border: 1px solid rgba(255,255,255,.10);
+  border-radius: 12px;
+  margin: 10px 0 15px;
+  border: 1px solid rgba(255,255,255,.08);
 }
